@@ -1,4 +1,4 @@
-# praca-zaliczeniowa-
+# praca- podyplomowa 
 import sqlite3
 import xml.etree.ElementTree as ET
 import os
